@@ -912,7 +912,7 @@
           "state": "Texas"
         },
         {
-          "abbreviation": "OKSU",
+          "abbreviation": "OSU",
           "prestige": "76",
           "hexColor": "#FE5C00",
           "rival": "WVU",
@@ -1828,7 +1828,7 @@
           "state": "Alabama"
         },
         {
-          "abbreviation": "AKSU",
+          "abbreviation": "ARSU",
           "prestige": "48",
           "hexColor": "#CCO92F",
           "rival": "ULL",
@@ -1855,7 +1855,7 @@
           "abbreviation": "ULL",
           "prestige": "46",
           "hexColor": "#A00B0B",
-          "rival": "AKSU",
+          "rival": "ARSU",
           "headCoach": {
             "contractLength": "5",
             "startYear": "2020",
