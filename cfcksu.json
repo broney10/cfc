@@ -761,7 +761,7 @@
             "baselinePrestige": "70",
             "ratDiscipline": "66",
             "ratOvr": "74",
-            "name": "Tom Herman",
+            "name": "Steve Sarkisian",
             "contractYear": "0"
           },
           "name": "Texas",
@@ -961,14 +961,14 @@
         },
         {
           "abbreviation": "KU",
-          "prestige": "65",
+          "prestige": "60",
           "hexColor": "#0051BA",
           "rival": "KSU",
           "headCoach": {
             "contractLength": "7",
             "startYear": "2020",
             "age": "55",
-            "ratOff": "72",
+            "ratOff": "62",
             "cumulativePrestige": "15",
             "ratDef": "69",
             "homeState": "Ohio",
